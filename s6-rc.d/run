@@ -1,0 +1,2 @@
+#!/command/with-contenv execlineb
+/opt/beer/beer.sh
