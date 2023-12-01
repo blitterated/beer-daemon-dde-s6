@@ -1,6 +1,6 @@
 # The Beer Daemon dde-s6 test
 
-This image is just the Beer Daemon build on top of dde-s6. It's a good way to test an image based on s6-overlay version 3.0.0.2-1 and up.
+This image is just the [Beer Daemon](https://github.com/blitterated/beer-daemon) built on top of [dde-s6](https://github.com/blitterated/docker-dev-env-s6). It's a good way to test an image based on s6-overlay version 3.0.0.2-1 and up.
 
 ### Build, Run, Test
 
